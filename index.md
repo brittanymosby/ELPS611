@@ -1,5 +1,5 @@
 # Boards and Community Relations in Higher Education
-![](/assets/info.png)
+![](/assets/info1.png)
 
 This is the supplementary course page for the Spring 2026 section of _ELPS 611: Boards and Community Relations in Higher Education._ I will use this space throughout the semester to share course materials and announcements. Make sure you bookmark and check this page frequently for the most up-to-date assigned reading.
 
