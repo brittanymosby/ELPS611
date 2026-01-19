@@ -11,7 +11,3 @@ Make sure to adhere to the following each week to ensure full credit and timely 
 ## Weekly Topics and Reading
 ![](/assets/topics-ppt.png)
 
-| Header 1 | 
-|---|
-| Row 1, Col 1 |
-| Row 2, Col 1 |
