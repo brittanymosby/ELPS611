@@ -6,8 +6,7 @@ Make sure to adhere to the following each week to ensure full credit and timely 
 - Accepted file formats (in order of preference) are PDF, Word, or Google Doc. If you are a Mac/Pages user, please export your document to an accepted format before submitting. 
 - Completed assignments should be submitted via email to [ELPS611@BrittanyMosby.com](mailto:elps611@brittanymosby.com). _Please note the change in address._
 
-Course Topics |
-______________
-Week 1 |
-Week 2 |
-Week 3 |
+| Header 1 | Header 2 | Header 3 |
+|---|---|---|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
