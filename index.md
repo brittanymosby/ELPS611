@@ -13,7 +13,7 @@ Moving forward, please use the email [ELPS611@BrittanyMosby.com](mailto:elps611@
 - Alternate Thursdays, 5 - 7 pm
 
 ## Lecture Topics and Reading
-### I. The Role and Function of Boards
+### I. The Role and Function of Boards (Lecture Date: Thursday 1/22)
 #### Reading List
 - **Read** [What College Trustees Are and Why They Matter](https://www.goacta.org/2023/11/what-college-trustees-are-and-why-they-matter/)
 - **Read** Bowles, K. (2021, November 15). [Boards: Who's Really in Charge?](https://www.insidehighered.com/blogs/just-explain-it-me/boards-who%E2%80%99s-really-charge)
@@ -23,15 +23,8 @@ Moving forward, please use the email [ELPS611@BrittanyMosby.com](mailto:elps611@
 #### After Lecture Reflective Questions (due Thursday 1/29)
 What challenges would institutions face without a governance board? What are key indicators of a well-functioning system of shared governance?
 
-### II. Boards and the President, Administration, and Staff
+### II. Boards and the President, Administration, and Staff (Lecture Date: Thursday 2/5)
 #### Reading List
 TBA
 #### After Lecture Reflective Questions (due Thursday 2/12) 
 Describe an ideal relationship between a Board and the administration of an institution. How does this relationship break down? 
-
-### III. Boards and the Faculty and Students
-#### Reading List
-TBA 
-#### After Lecture Reflective Questions
-In what ways does the relationship with faculty differ from the relationship with the institution president and administration? Students? How could a Board be intentional about cultivating relationships?
-
