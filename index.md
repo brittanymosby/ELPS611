@@ -12,7 +12,7 @@ Moving forward, please use the email [ELPS611@BrittanyMosby.com](mailto:elps611@
 - Fridays, 10 am - 12 Noon
 - Alternate Thursdays, 5 - 7 pm
 
-## Lecture Topics and Reading
+## [Lecture Topics and Reading](/readings.md)
 ### I. The Role and Function of Boards (Lecture Date: Thursday 1/22)
 #### Reading List
 - **Read** [What College Trustees Are and Why They Matter](https://www.goacta.org/2023/11/what-college-trustees-are-and-why-they-matter/)
