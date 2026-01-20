@@ -1,8 +1,8 @@
 # ELPS 611: Boards and Community Relations
-This is the supplementary course page for the Spring 2026 section of *ELPS 611: Boards and Community Relations in Higher Education.* I will use this space throughout the semester to share course materials and announcements. Make sure you bookmark and check this page frequently for the most up-to-date assigned reading.
+This is the supplementary course page for the Spring 2026 section of *ELPS 611: Boards and Community Relations in Higher Education.* I will use this space throughout the semester to share course materials and announcements. Make sure you bookmark and check this page weekly for the most up-to-date assigned reading.
 
-**Important Note on Assignment Submission**
-As we examine the nature and work of governing boards through their relationships to their various constituencies, you may be assigned articles, videos, and book exerpts to read/watch to come to lecture with a basic understanding and prepared for deeper dialogue with your colleagues. Until further notice, please use the email [ELPS611@BrittanyMosby.com](mailto:elps611@brittanymosby.com) to submit course assignments and for course-related communication. 
+**Important Note**
+Moving forward, please use the email [ELPS611@BrittanyMosby.com](mailto:elps611@brittanymosby.com) to submit course assignments and for course-related communication. 
 
 ## Course Essentials
 **Synchronous Class Dates**
@@ -12,12 +12,7 @@ As we examine the nature and work of governing boards through their relationship
 - Fridays, 10 am - 12 Noon
 - Alternate Thursdays, 5 - 7 pm
 
-**Contact**
-- [ELPS611@BrittanyMosby.com](mailto:elps611@brittanymosby.com) (Preferred)
-- Text/Call: 615/436-2891
-
 ## Lecture Topics and Reading
-
 ### I. The Role and Function of Boards
 #### Reading List
 - **Read** [What College Trustees Are and Why They Matter](https://www.goacta.org/2023/11/what-college-trustees-are-and-why-they-matter/)
@@ -31,7 +26,7 @@ What challenges would institutions face without a governance board? What are key
 ### II. Boards and the President, Administration, and Staff
 #### Reading List
 TBA
-#### After Lecture Reflective Questions
+#### After Lecture Reflective Questions (due Thursday 2/12) 
 Describe an ideal relationship between a Board and the administration of an institution. How does this relationship break down? 
 
 ### III. Boards and the Faculty and Students
