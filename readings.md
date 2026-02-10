@@ -20,13 +20,19 @@ What challenges would institutions face without a governance board? What are key
 #### After Lecture Reflective Questions (due Friday 2/13) 
 Describe an ideal relationship between a Board and the administration of an institution. How does this relationship break down? 
 
+---
+
 ### III. Boards and Institutional Advancement, Fundraising, and Philanthropy (Lecture Date: Thursday 2/19)
 #### Reading List
 TBA
 
+---
+
 ### IV. Boards in Crisis (Lecture Date: Thursday 3/5)
 #### Reading List
 TBA
+
+---
 
 ### V. Boards and the relationship with Faculty and Students (Lecture Date: Thursday 3/19)
 #### Reading List
