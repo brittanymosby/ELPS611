@@ -11,7 +11,7 @@ What challenges would institutions face without a governance board? What are key
 
 ---
 
-### II. Boards and the President, Administration, and Staff (Lecture Date: Thursday 2/5)
+### II. Boards and the Administration (Lecture Date: Thursday 2/5)
 #### Reading List
 - **Read** [Getting the President-Board Relationship Right](https://www.insidehighered.com/opinion/career-advice/2023/11/17/10-key-steps-presidents-should-take-good-board-relations-opinion)
 - **Read** [The Tie that Binds: Trusteeship, Values, and the Presidential Selection Process at AME-Affiliated HBCUs](https://repository.upenn.edu/entities/publication/3df45855-bfc9-4d36-a433-9a8f16b6c159)
