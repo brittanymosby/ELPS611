@@ -8,6 +8,7 @@
 
 #### After Lecture Reflective Questions (due Thursday 1/29)
 What challenges would institutions face without a governance board? What are key indicators of a well-functioning system of shared governance?
+---
 
 ### II. Boards and the President, Administration, and Staff (Lecture Date: Thursday 2/5)
 #### Reading List
