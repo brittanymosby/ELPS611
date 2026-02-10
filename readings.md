@@ -11,6 +11,19 @@ What challenges would institutions face without a governance board? What are key
 
 ### II. Boards and the President, Administration, and Staff (Lecture Date: Thursday 2/5)
 #### Reading List
-TBA
-#### After Lecture Reflective Questions (due Thursday 2/12) 
+- **Read** [Getting the President-Board Relationship Right](https://www.insidehighered.com/opinion/career-advice/2023/11/17/10-key-steps-presidents-should-take-good-board-relations-opinion)
+- **Read** [The Tie that Binds: Trusteeship, Values, and the Presidential Selection Process at AME-Affiliated HBCUs](https://repository.upenn.edu/entities/publication/3df45855-bfc9-4d36-a433-9a8f16b6c159)
+- **Read** [Indicators of presidential effectiveness: a study of trustees of higher education institutions](https://repository.upenn.edu/entities/publication/3df45855-bfc9-4d36-a433-9a8f16b6c159)
+- 
+#### After Lecture Reflective Questions (due Friday 2/13) 
 Describe an ideal relationship between a Board and the administration of an institution. How does this relationship break down? 
+
+### III. Boards and Institutional Advancement, Fundraising, and Philanthropy (Lecture Date: Thursday 2/19)
+#### Reading List
+
+
+### IV. Boards in Crisis (Lecture Date: Thursday 3/5)
+#### Reading List
+
+
+### V. Boards and the relationship with Faculty and Students (Lecture Date: Thursday 3/19)
