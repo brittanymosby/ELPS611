@@ -9,6 +9,9 @@ You may choose your medium. Recommended formats include:
 - for other ideas, please run by me first
 
 Rubrics will be provided. You will be graded on quality of content and accesibility to a non-academic audience. In order to make sure you are making sufficient progress, we will use the following dates for drafts and check-ins:
+
 **Draft 1**, due in-class on 2/19
+
 **Draft 2**, due in-class on 3/19
+
 **Final presentation or submission**, due in-class on 4/30.
