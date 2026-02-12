@@ -17,7 +17,7 @@ What challenges would institutions face without a governance board? What are key
 - **Read** [The Tie that Binds: Trusteeship, Values, and the Presidential Selection Process at AME-Affiliated HBCUs](https://repository.upenn.edu/entities/publication/3df45855-bfc9-4d36-a433-9a8f16b6c159)
 - **Read** [Indicators of presidential effectiveness: a study of trustees of higher education institutions](https://repository.upenn.edu/entities/publication/3df45855-bfc9-4d36-a433-9a8f16b6c159)
 
-#### After Lecture Reflective Questions (due Friday 2/13) 
+#### After Lecture Reflective Questions (NOT DUE) 
 Describe an ideal relationship between a Board and the administration of an institution. How does this relationship break down? 
 
 ---
