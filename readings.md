@@ -21,7 +21,7 @@ What challenges would institutions face without a governance board? What are key
 
 ### III. Fiduciary Responsibilities (Lecture Date: Thursday 2/19)
 #### Reading List
-- **Read** Redefining the board's role in fiscal planning
+- **Read** Carver, J. (1991). Redefining the board's role in fiscal planning
 - **Read** [The Prudent Investor Rule and Trust Asset Allocation](https://dash.harvard.edu/entities/publication/73120379-069c-6bd4-e053-0100007fdf3b)
 - **Read** [The Equity Trustee](https://ir.law.fsu.edu/cgi/viewcontent.cgi?article=1547&context=articles)
 - **Read** [Leveraging an Overlooked Asset: The Role of Public University Trustees in Institutional Advancement](https://muse.jhu.edu/pub/3/article/811757/summary)
