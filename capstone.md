@@ -12,6 +12,7 @@ Rubrics will be provided. You will be graded on quality of content and accesibil
 
 **Draft 1**, due in-class on 2/19
 - Read [How to Write an Opinion Essay and Why You Should Do It Now](/assets/Op-Ed Article.pdf)
+- Read [Crafting an Effective Op-Ed: A guide for education researchers](https://www.aera.net/Newsroom/Communication-Resources-for-Researchers/Crafting-an-Effective-Op-Ed-A-Guide-for-Education-Researchers)
 
 **Draft 2**, due in-class on 3/19
 
