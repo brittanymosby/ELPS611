@@ -10,9 +10,11 @@ You may choose your medium. Recommended formats include:
 
 Rubrics will be provided. You will be graded on quality of content and accesibility to a non-academic audience. In order to make sure you are making sufficient progress, we will use the following dates for drafts and check-ins:
 
-**Draft 1**, due in-class on 2/19
+**Draft 1**, discussion in-class on 2/19
 - Read [How to Write an Opinion Essay and Why You Should Do It Now](/assets/Op-Ed Article.pdf)
 - Read [Crafting an Effective Op-Ed: A guide for education researchers](https://www.aera.net/Newsroom/Communication-Resources-for-Researchers/Crafting-an-Effective-Op-Ed-A-Guide-for-Education-Researchers)
+- Read Chapter 3 of [A Guide to Academic Podcasting](https://scholars.wlu.ca/cgi/viewcontent.cgi?article=1002&context=books)
+- Read [Scholarly Podcasting: Who, What, Why?](https://www.taylorfrancis.com/books/mono/10.4324/9781003006596/scholarly-podcasting-ian-cook) 
 
 **Draft 2**, due in-class on 3/19
 
